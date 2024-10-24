@@ -1,2 +1,3 @@
-# Akbank-Derin-ogrenme-Fish-Dataset
+# Akbank-Derin-Ogrenme-Fish-Dataset
 Bu projede a large scale fish dataset verisini aldım ve preprocessing ise train ve test setlerine ayırdım. Sonrasında modelimi kurdum: modelimde input layer ve 3 dense hidden layer, 1 de output layer var. Output layer'da softmax fonksiyonunu kullanarak 9 kategorik çıktı olmasını sağladım. Ve modelimi fit fonksiyonu kullanarak eğittim. Daha sonrasında matplotlib fonksiyonlarını kullanarak eğittiğim modelin accuracy ve less fonksiyonu bilgilerini grafik ile gösterdim. En son olarak da test verisetim ile son kontrolleri yaptım.
+https://www.kaggle.com/code/betleken/akbank-derin-renme-fish-dataset
